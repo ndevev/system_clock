@@ -7,7 +7,7 @@ public class SystemClockPlugin implements FlutterPlugin {
 
  
     public static void registerWith(PluginRegistry.Registrar registrar) {
-        registrar;
+        
     }
 
     @Override
